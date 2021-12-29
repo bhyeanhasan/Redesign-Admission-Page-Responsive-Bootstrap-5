@@ -1,0 +1,19 @@
+.top{
+    background-color: #440000;
+}
+.order{
+    background-color: #440000;
+    margin-bottom: 2px;
+    color: white;
+}
+.order:hover{
+    background-color: green;
+    color: white;
+}
+
+footer{
+    background-color: #440000;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: rgb(138, 133, 133);
+}
