@@ -10,10 +10,20 @@
     background-color: green;
     color: white;
 }
-
 footer{
     background-color: #440000;
     padding-top: 20px;
     padding-bottom: 20px;
     color: rgb(138, 133, 133);
+}
+.menubutton{
+    background-color: #440000;
+    color: white;
+}
+.menubutton:hover{
+    background-color: green;
+    color: white;
+}
+.sidebutton{
+    border-radius: 5px;
 }
